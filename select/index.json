@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Tremolo",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2025-12-02T07:29:19.315819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Lodge (Tremolo Mix)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/01_Black_Lodge_(Tremolo_Mix)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tremolo Blooz",
+      "artist": "The Presidents of the United States of America",
+      "has_synced": true,
+      "path": "select/02_Tremolo_Blooz_The_Presidents_of_the_United_States_of_America.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "tremolo",
+      "artist": "BETWEEN FRIENDS",
+      "has_synced": true,
+      "path": "select/03_tremolo_BETWEEN_FRIENDS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tremolo",
+      "artist": "Young Fathers",
+      "has_synced": false,
+      "path": "select/04_Tremolo_Young_Fathers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tremolo",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/05_Tremolo_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tremolo",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_Tremolo_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Super Tremolo",
+      "artist": "Smoke Fairies",
+      "has_synced": true,
+      "path": "select/07_Super_Tremolo_Smoke_Fairies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "cold tremolo",
+      "artist": "tilt-six feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/08_cold_tremolo_tilt-six_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tremolo+A",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/09_Tremolo+A_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tremolo",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/10_Tremolo_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tremolo Blooz (Album Version)",
+      "artist": "The Presidents of the United States of America",
+      "has_synced": true,
+      "path": "select/11_Tremolo_Blooz_(Album_Version)_The_Presidents_of_the_United_States_of_America.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Marine Band Tremolo",
+      "artist": "Catherine Deneuve",
+      "has_synced": false,
+      "path": "select/12_Marine_Band_Tremolo_Catherine_Deneuve.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tremolo",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_Tremolo_Chilli_Beans..txt"
+    }
+  ]
+}
